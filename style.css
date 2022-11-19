@@ -1,0 +1,64 @@
+body{
+    
+}
+
+
+
+#berkay{
+   
+    background-color: white;
+    color:black;
+    padding:30px;
+    margin: 20px;
+    box-shadow: 10px 5px 50px 5px grey; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 50px;
+
+
+}
+.resim{
+    margin-top: 20px;
+    border-radius:40px 10px;
+    width:250px;
+    height:370px;
+    
+}
+.resim:hover{
+ 
+    box-shadow: 1px 1px 30px 1px rgb(142, 101, 146);
+    cursor:pointer;
+}
+.bpbox{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.musicbox{
+    
+    width: 300px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    background: linear-gradient(rgb(0, 0, 0),#d250d6);
+    margin:5px
+}
+h3{ 
+
+    font-family: cursive;
+}
+
+@media (min-width: 400) and (max-width: 1280px){
+  
+    .musicbox{
+    
+        width: 600px;
+        
+    }
+
+    
+  }
