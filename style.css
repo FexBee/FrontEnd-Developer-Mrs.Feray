@@ -62,3 +62,33 @@ h3{
 
     
   }
+
+  .Lisa{ 
+    width: 300px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    background: linear-gradient(rgb(0, 0, 0),#e7e409);
+     margin: 5px;
+}
+
+.Rose{
+    width: 300px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 10px;
+    border: 10px;
+    background: linear-gradient(rgb(0, 0, 0),#01b7ff);
+    margin: 5px;
+}   
+
+.Jennie{
+     width: 300px;
+     border: 1px solid grey;
+     text-align: center;
+     padding: 10px;
+     border: 10px;
+     background: linear-gradient(rgb(0, 0, 0),#15d315);  
+     margin: 5px;
+}
